@@ -15,10 +15,11 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             github-contribution-grid-snake.svg
-      - name: Commit and push the snake graph
+            - name: Commit and push the snake graph
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add github-contribution-grid-snake.svg
-          git commit -m "Generated contribution snake"
+          git commit -m "Generated contribution snake" || echo "No changes to commit"
           git push
+
