@@ -41,6 +41,5 @@
 ![GitHub Contribution Snake](https://github.com/Thg1zZ/Thg1zZ/blob/output/github-contribution-grid-snake.svg)
 
 
-##### Hi there 👋
 
 
