@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgur.com/LjwXEzf"  />
+<img align="right" height="150" src="https://github.com/Thg1zZ/Thg1zZ/blob/main/.github/workflows/LjwXEzf.gif"  />
 
 ###
 
