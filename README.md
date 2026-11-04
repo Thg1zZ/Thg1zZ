@@ -29,6 +29,9 @@
   <a href="https://www.linkedin.com/in/thiago-gomes-fc/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://gitlab.com/thiago.gomes4" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
 </div>
+<div align="center">
+  <a href="https://github.com/Thg1zZ/Thg1zZ/blob/main/curriculo.pdf" target="_blank"><img src="https://img.shields.io/badge/Curr%C3%ADculo-PDF-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo" /></a>
+</div>
 
 <br />
 
