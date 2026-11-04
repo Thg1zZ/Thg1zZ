@@ -1,1 +1,39 @@
-<h2 align="center">Hi 👋! My name is Thiago and I'm a Developer, from Brazil!</h2> <div align="center"> <img src="./profile-summary-card-output/github_dark/3-stats.svg" height="160" alt="GitHub stats" /> <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" height="160" alt="Top languages" /> </div> <br /> <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="C" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" /> </div> <br /> <div align="center"> <a href="https://www.youtube.com/@Thg-wp2ri" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a> <a href="https://www.instagram.com/thgomes.021/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="https://www.twitch.tv/thg1zz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a> <a href="mailto:thiagogomes1337@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> <a href="https://www.linkedin.com/in/thiago-gomes-fc/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> </div> <br /> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thg1zZ/Thg1zZ/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thg1zZ/Thg1zZ/output/pacman-contribution-graph.svg"> <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/Thg1zZ/Thg1zZ/output/pacman-contribution-graph.svg"> </picture>
+<h2 align="center">Hi 👋! My name is Thiago and I'm a Developer, from Brazil!</h2>
+
+<div align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" height="160" alt="GitHub stats" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" height="160" alt="Top languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="C" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://www.youtube.com/@Thg-wp2ri" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.instagram.com/thgomes.021/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.twitch.tv/thg1zz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
+  <a href="mailto:thiagogomes1337@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/thiago-gomes-fc/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://gitlab.com/thiago.gomes4" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
+</div>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thg1zZ/Thg1zZ/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thg1zZ/Thg1zZ/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/Thg1zZ/Thg1zZ/output/pacman-contribution-graph.svg">
+</picture>
