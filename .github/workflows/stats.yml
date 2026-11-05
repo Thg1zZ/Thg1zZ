@@ -15,7 +15,9 @@ jobs:
 
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # personal token so private contributions are counted too
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          CARD_THEME: github_dark
+          THEME: github_dark
+          TIME_ZONE: America/Sao_Paulo
